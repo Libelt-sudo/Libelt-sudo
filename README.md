@@ -1,16 +1,15 @@
-## Hi there 👋
+## Hello there! 👋
 
-<!--
-**Libelt-sudo/Libelt-sudo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a software engineer focused on backend development, with a long-term goal of working on large distributed systems. I'm also pretty interested in low-level systems and enjoy learning how things work under the hood.
 
-Here are some ideas to get you started:
+🌱 Currently working through *Designing Data-Intensive Applications* and *Operating Systems: Three Easy Pieces* — so wish me luck 😉.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+### 🛠️ Skills
+- **Main Languages:** Python, TypeScript, Golang (learning)
+- **Focus:** Backend development, distributed systems (learning)
+
+<br>
+
+### 📫 How to reach me
+- [LinkedIn](www.linkedin.com/in/luis-seibet-7b4734320) · [Email](seibet.07@gmail.com)
