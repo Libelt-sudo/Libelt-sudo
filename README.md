@@ -7,7 +7,7 @@ Currently working through *Designing Data-Intensive Applications* and *Operating
 
 ### 🛠️ Skills
 - **Main Languages:** Python, TypeScript, Golang (learning)
-- **Focus:** Backend development, distributed systems (learning)
+- **Focus:** Backend development
 
 <br>
 
