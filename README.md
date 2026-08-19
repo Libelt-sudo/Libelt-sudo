@@ -10,4 +10,4 @@ I'm a software engineer focused on backend development. I'm also pretty interest
 <br>
 
 ### 📫 How to reach me
-- [LinkedIn](www.linkedin.com/in/luis-seibet-7b4734320) · [Email](seibet.07@gmail.com)
+- [LinkedIn](www.linkedin.com/in/luis-seibet-7b4734320) · [Email](l.seibet.07@protonmail.com)
