@@ -1,6 +1,6 @@
 ## Hello.
 
-I'm a software engineer.
+I'm a software developer.
 
 ### 🛠️ Skills
 - **Main Languages:** Python, JavaScript/TypeScript, Rust
